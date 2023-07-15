@@ -15,6 +15,7 @@ const TopNav = () => {
 					onClick={() => setSideNav(!sideNav)}
 					className="cursor-pointer">
 					<AiOutlineMenu size={25} />
+					<span className="text-orange-700">InLoveWithGeorgia</span>
 				</div>
 				<h1 className="text-2xl sm:text-3xl lg:text-4xl px-2">
 					LP
